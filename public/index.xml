@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    
+    
+    
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 May 2024 21:14:30 -0700</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Sun, 26 May 2024 21:14:30 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Lorem ipsum - test for theme migration.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Use .mailmap for Name Changes on Git</title>
+      <link>http://localhost:1313/posts/git-merge-author/</link>
+      <pubDate>Sun, 23 May 2021 11:56:15 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/git-merge-author/</guid>
+      <description>
+        
+          &lt;img src=&#34;http://localhost:1313/posts/git-merge-author/hello-my-name-is.png&#34;/&gt;
+          
+        
+        
+        
+          Whenever we change a name, git tracks a different author. The following names are all different authors insofar as git is concerned:
+Quintessence quintessence Quinn quin Similar applies if you are using different email addresses, e.g. different personal addresses or different work / contract addresses. And then of course there are situations where people legally change their names, for a variety of reasons like transition, marriage, severing ties with family of origin, etc.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
