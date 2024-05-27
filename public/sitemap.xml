@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/first-post/</loc>
+    <loc>https://quintessence.lol/posts/first-post/</loc>
     <lastmod>2024-05-26T21:14:30-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://quintessence.lol/</loc>
     <lastmod>2024-05-26T21:14:30-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://quintessence.lol/posts/</loc>
     <lastmod>2024-05-26T21:14:30-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://quintessence.lol/tags/</loc>
     <lastmod>2024-05-26T21:14:30-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/untagged/</loc>
+    <loc>https://quintessence.lol/tags/untagged/</loc>
     <lastmod>2024-05-26T21:14:30-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/git-merge-author/</loc>
+    <loc>https://quintessence.lol/posts/git-merge-author/</loc>
     <lastmod>2021-05-23T11:56:15-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://quintessence.lol/categories/</loc>
   </url>
 </urlset>
