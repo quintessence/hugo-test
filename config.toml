@@ -1,4 +1,5 @@
-baseURL = "https://amanhasnona.me/"
+#baseURL = "https://amanhasnona.me/"
+baseURL = "https://quintessence.lol/"
 languageCode = "en-us"
 title = "Her Dark Materials"
 theme="hello-friend"
