@@ -45,7 +45,7 @@ theme="hello-friend"
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "dark --deploy materials --gender her --env prod"
+      logoText = "Her Dark Materials"
       logoHomeLink = "/"
     # or
     #
