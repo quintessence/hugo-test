@@ -6,6 +6,8 @@ useRelativeCover: true
 draft: false
 ---
 
+FIXME: small edit for change
+
 Whenever we change a name, git tracks a different author. The
 following names are all different authors insofar as git is
 concerned:
